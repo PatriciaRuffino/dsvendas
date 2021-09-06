@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'assets/css/style.css';
-import App from './App';
+import App from './components/NavBar/App';
 
 
 ReactDOM.render(
